@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Obasaju Winner
 - 👀 I’m interested in Cloud Engineering and Cybersecurity
-- 🌱 I’m currently learning AWS Solutions Architecture
-- 💞️ I’m looking to collaborate on Cloud Projects and enhancing the security in the cloud
+- 🌱 I’m currently a DevOps Engineer @ Excrow
+- 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me ...obasajuwinner@gmail.com , www.linkedin.com/in/obasaju-winner
 
 <!---
